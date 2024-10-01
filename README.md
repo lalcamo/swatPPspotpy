@@ -1,6 +1,6 @@
 # swat++spotpy
 Link between SWAT+ models and spotpy
 Authors:
-@fuchsiger @lalcamo
+@lalcamo @fuchsiger 
 
 Documentation coming soon!
